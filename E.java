@@ -11,4 +11,8 @@ public class E {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public int af() {
+        return -1;
+    }
 }
