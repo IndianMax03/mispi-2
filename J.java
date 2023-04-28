@@ -15,4 +15,8 @@ public class J {
     public Object pp() {
         return this;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
