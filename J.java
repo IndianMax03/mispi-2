@@ -23,4 +23,8 @@ public class J {
     public double ad() {
         return 11.09;
     }
+
+    public int cc() {
+        return 13;
+    }
 }
