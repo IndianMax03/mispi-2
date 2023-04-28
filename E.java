@@ -19,4 +19,8 @@ public class E {
     public Object rr() {
         return null;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
