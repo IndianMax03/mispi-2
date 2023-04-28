@@ -11,20 +11,4 @@ public class J {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
-
-    public Object pp() {
-        return this;
-    }
-
-    public void aa() {
-        System.out.println("void aa");
-    }
-
-    public double ad() {
-        return 11.09;
-    }
-
-    public int cc() {
-        return 13;
-    }
 }
