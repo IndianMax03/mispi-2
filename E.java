@@ -12,6 +12,10 @@ public class E extends null {
         return getClass();
     }
 
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
     public int af() {
         return -1;
     }
@@ -28,11 +32,19 @@ public class E extends null {
         return new java.util.ArrayList<String>();
     }
 
-    public int ae() {
-        return java.lang.Math.abs(-6);
-    }
-
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 }

@@ -31,4 +31,20 @@ public class J extends null {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public String kk() {
+        return "Yes";
+    }
 }
