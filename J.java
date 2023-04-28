@@ -1,4 +1,4 @@
-public class J {
+public class J extends null {
 
     private double e = 100.500;
 
@@ -10,6 +10,10 @@ public class J {
 
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public int cc() {
+        return 13;
     }
 
     public Object pp() {
@@ -24,7 +28,7 @@ public class J {
         return 11.09;
     }
 
-    public int cc() {
-        return 13;
+    public double ee() {
+        return java.lang.Math.PI;
     }
 }
