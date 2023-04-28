@@ -15,4 +15,8 @@ public class E {
     public int af() {
         return -1;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
